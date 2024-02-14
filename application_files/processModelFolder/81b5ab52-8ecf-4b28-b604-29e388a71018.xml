@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<processModelFolderHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>0cbe805d-c5b1-4c68-8a99-9f4bb0f2e99d</versionUuid>
+    <processModelFolder>
+        <name>ADR Process Models</name>
+        <uuid>81b5ab52-8ecf-4b28-b604-29e388a71018</uuid>
+        <description>Stores process models for the application</description>
+    </processModelFolder>
+    <roleMap>
+        <role name="ADMIN_OWNER">
+            <users/>
+            <groups>
+                <groupUuid>15b3738b-1462-475b-bdcb-1230d5061823</groupUuid>
+            </groups>
+        </role>
+        <role name="EDITOR">
+            <users/>
+            <groups/>
+        </role>
+        <role name="EXPLICIT_NONMEMBER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="VIEWER">
+            <users/>
+            <groups>
+                <groupUuid>6b1fce53-4781-4425-a734-b8fa5718e715</groupUuid>
+            </groups>
+        </role>
+        <role name="MANAGER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="INITIATOR">
+            <users/>
+            <groups/>
+        </role>
+    </roleMap>
+    <history>
+        <historyInfo versionUuid="0cbe805d-c5b1-4c68-8a99-9f4bb0f2e99d"/>
+    </history>
+</processModelFolderHaul>
